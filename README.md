@@ -66,6 +66,7 @@ If we are stretching the abilities of the LUA sandbox, or there's a less-than-no
 ---
 ## Who
 **LXTater** — Lighting Design, Programmer, and very very tired of guessing.
+**Badass Lighting** - Lighting Designer, Programmer, wants to help.
 
 ---
 ## AI Declreation

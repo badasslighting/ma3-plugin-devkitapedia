@@ -1,4 +1,4 @@
-# LXTater's MA3 Plugin Devkitapedia
+# Community built MA3 Plugin "Devkitapedia"
 Unofficial devkit and wiki for **grandMA3 plugin development**. This wiki is **Under Development**
 
 MA3's Lua plugin API is powerful but not entirley documented. I have been so tired of scrounging Google's third or fourth page to see if someone has the right keyword. My CTRL + F keys have worn completely out. This is still being built. Althoug it is planned to be a wiki that goes through updates, I plan on keeping the under development label until all of the MA3 Global Functions that MA has examples on the manual are created into wiki pages.
